@@ -1,0 +1,8 @@
+Ana,25
+Carlos,17
+Maria,30
+Joao,abc
+Pedro,40
+Erro,,
+Lucas,1.4
+Mateus,78.3
